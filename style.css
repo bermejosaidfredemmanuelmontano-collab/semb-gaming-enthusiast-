@@ -352,7 +352,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Fade-in entrance animation */
+
 .fade-in {
   opacity: 0;
   transform: translateY(30px);
@@ -364,8 +364,9 @@ a:hover {
   transform: translateY(0);
 }
 
-/* Optional: stagger cards inside containers */
+
 .card-container .card.fade-in:nth-child(1).show { transition-delay: 0.1s; }
 .card-container .card.fade-in:nth-child(2).show { transition-delay: 0.2s; }
 .card-container .card.fade-in:nth-child(3).show { transition-delay: 0.3s; }
+
 .card-container .card.fade-in:nth-child(4).show { transition-delay: 0.4s; }
