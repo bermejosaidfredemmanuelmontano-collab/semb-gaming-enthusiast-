@@ -1,2 +1,2 @@
-# semb-gaming-enthusiast-
-Welcome to my portfolio.
+# semb-gaming-enthusiast
+# Welcome to my portfolio.
